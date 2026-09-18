@@ -15,3 +15,5 @@ This workshop presents the step-by-step implementation and deployment of the Cli
 2. [5.2. System Architecture](2-architecture/)
 3. [5.3. Backend Foundation](3-backend-foundation/)
 4. [5.4. Doctor Discovery and Schedule](4-doctor-discovery-schedule/)
+5. [5.5. Appointment Booking Core](5-appointment-booking/)
+6. [5.6. AWS Infrastructure](6-aws-infrastructure/)
