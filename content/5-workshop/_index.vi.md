@@ -17,3 +17,4 @@ Workshop trình bày từng bước xây dựng và triển khai Clinic Appointm
 4. [5.4. Tra cứu bác sĩ và quản lý lịch làm việc](4-doctor-discovery-schedule/)
 5. [5.5. Đặt lịch khám](5-appointment-booking/)
 6. [5.6. Hạ tầng AWS](6-aws-infrastructure/)
+7. [5.7. Triển khai và kiểm thử trên AWS](7-deployment-validation/)

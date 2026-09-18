@@ -17,3 +17,4 @@ This workshop presents the step-by-step implementation and deployment of the Cli
 4. [5.4. Doctor Discovery and Schedule](4-doctor-discovery-schedule/)
 5. [5.5. Appointment Booking Core](5-appointment-booking/)
 6. [5.6. AWS Infrastructure](6-aws-infrastructure/)
+7. [5.7. Deployment and Live Validation](7-deployment-validation/)
