@@ -65,5 +65,5 @@ Tên trùng trả về 409 `SPECIALTY_ALREADY_EXISTS`. UUID đúng định dạn
 
 Dùng `/api/docs` để tra cứu không cần token, sau đó kiểm tra thao tác ghi danh mục với tài khoản ADMIN test riêng. Kiểm tra chuyên khoa đã ngừng hoạt động không còn xuất hiện trong danh sách công khai. Lần kiểm tra HTTP 200 với `search=cardio` trước đây phù hợp hợp đồng query này; kết quả phụ thuộc dữ liệu local.
 
-> 📷 Ảnh cần bổ sung: các endpoint Specialty trong Swagger và kết quả tìm kiếm đã che dữ liệu nhạy cảm.
+<!-- TODO_SCREENSHOT: các endpoint Specialty trong Swagger và kết quả tìm kiếm đã che dữ liệu nhạy cảm. -->
 

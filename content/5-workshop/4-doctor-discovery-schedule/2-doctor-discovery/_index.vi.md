@@ -86,5 +86,5 @@ Response gồm `id`, `isActive` và `updatedAt`. Đặt `isActive: true` bật l
 
 Trong Swagger local, đối chiếu danh sách, chi tiết và bộ lọc chuyên khoa. Với tài khoản ADMIN riêng, ngừng hoạt động một bác sĩ test và kiểm tra bác sĩ không còn trong tra cứu công khai, endpoint chi tiết công khai trả về 404. Test Doctors service kiểm tra điều kiện user hoạt động và phân trang ổn định; các test API M3 kiểm tra giới hạn vai trò quản trị.
 
-> 📷 Ảnh cần bổ sung: tra cứu bác sĩ trong Swagger và response activation ADMIN đã che dữ liệu nhạy cảm.
+<!-- TODO_SCREENSHOT: tra cứu bác sĩ trong Swagger và response activation ADMIN đã che dữ liệu nhạy cảm. -->
 

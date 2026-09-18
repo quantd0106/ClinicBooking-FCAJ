@@ -99,5 +99,5 @@ A wrong but well-formed doctor ID causing 404, followed by a valid active doctor
 
 In Swagger, select an active doctor and future date with a known OPEN schedule. Compare the slot count and display times with that schedule. The inspected unit test checks past-slot exclusion, active appointments, and UTC output; the M3 persistence integration test also covers CANCELLED not blocking a slot.
 
-> 📷 Screenshot to add: available-slots response showing UTC timestamps and clinic display times, with private identifiers hidden.
+<!-- TODO_SCREENSHOT: available-slots response showing UTC timestamps and clinic display times, with private identifiers hidden. -->
 

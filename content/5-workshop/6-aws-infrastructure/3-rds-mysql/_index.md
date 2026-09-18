@@ -62,4 +62,4 @@ Snapshot deletion/replacement policies can leave retained snapshots after stack 
 This is a learning/demo database, not a production high-availability design. RDS can incur ongoing costs while running. Detailed cost and cleanup steps come later; no cleanup is performed here.
 {{< /notice >}}
 
-📷 Screenshot to add: Private RDS configuration showing Single-AZ, encryption, subnet group, and public-access setting. Redact endpoints, credentials, and private identifiers.
+<!-- TODO_SCREENSHOT: Private RDS configuration showing Single-AZ, encryption, subnet group, and public-access setting. Redact endpoints, credentials, and private identifiers. -->

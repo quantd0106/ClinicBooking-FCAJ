@@ -86,5 +86,5 @@ The response contains `id`, `isActive`, and `updatedAt`. Setting `isActive: true
 
 In local Swagger, compare the list, detail, and specialty filter. With a private ADMIN account, deactivate a test doctor and confirm they disappear from public discovery and their public detail returns 404. The Doctors service test verifies active-user filtering and stable pagination; M3 API tests cover the administrative role boundary.
 
-> 📷 Screenshot to add: Swagger doctor discovery and a sanitized ADMIN activation response.
+<!-- TODO_SCREENSHOT: Swagger doctor discovery and a sanitized ADMIN activation response. -->
 

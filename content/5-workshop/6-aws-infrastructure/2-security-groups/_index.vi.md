@@ -57,4 +57,4 @@ Phân biệt này theo [tài liệu bảo mật Amazon VPC](https://docs.aws.ama
 Không mở rộng database ingress ra Internet. Thiết kế đã đối chiếu cấp quyền Lambda SG → RDS TCP 3306. Outbound rule mặc định của SG database và endpoint là vấn đề hardening riêng.
 {{< /notice >}}
 
-📷 Ảnh cần bổ sung: Rule Security Group thể hiện Lambda SG → RDS TCP 3306, đã che các định danh.
+<!-- TODO_SCREENSHOT: Rule Security Group thể hiện Lambda SG → RDS TCP 3306, đã che các định danh. -->

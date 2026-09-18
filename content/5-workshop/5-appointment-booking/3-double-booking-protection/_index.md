@@ -111,5 +111,5 @@ The inspected M4 integration test uses two concurrent `appointments.create()` ca
 Availability can change after discovery. Booking must validate and recheck inside the transaction. Cancellation frees an active slot only if the remaining doctor, schedule, and future-start conditions still permit booking.
 {{< /notice >}}
 
-> 📷 Screenshot to add: successful booking, duplicate-booking conflict, and the local database showing only one active appointment. Hide all real tokens and private identifiers.
+<!-- TODO_SCREENSHOT: successful booking, duplicate-booking conflict, and the local database showing only one active appointment. Hide all real tokens and private identifiers. -->
 

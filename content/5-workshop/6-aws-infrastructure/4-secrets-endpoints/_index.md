@@ -80,4 +80,4 @@ An interface endpoint is billed for provisioned endpoint hours in each AZ, plus 
 The Secrets Manager interface endpoint can incur ongoing charges while provisioned. This demo uses endpoints instead of NAT for its required AWS paths. Detailed cost and cleanup guidance comes later.
 {{< /notice >}}
 
-📷 Screenshot to add: Secrets Manager VPC Endpoint type, private DNS, subnets, and SG attachment. Do not show secret values.
+<!-- TODO_SCREENSHOT: Secrets Manager VPC Endpoint type, private DNS, subnets, and SG attachment. Do not show secret values. -->

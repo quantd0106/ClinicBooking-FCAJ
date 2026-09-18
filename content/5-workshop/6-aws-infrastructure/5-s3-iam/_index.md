@@ -90,4 +90,4 @@ The role already limits secrets, uploads, and logging. Possible future hardening
 Keep the bucket private and treat presigned form values as temporary authorization. Bucket retention can leave objects after stack removal, so later cleanup planning must account for retained storage. No cleanup or live access test is performed here.
 {{< /notice >}}
 
-📷 Screenshot to add: S3 Block Public Access and encryption settings, with bucket/private identifiers redacted.
+<!-- TODO_SCREENSHOT: S3 Block Public Access and encryption settings, with bucket/private identifiers redacted. -->

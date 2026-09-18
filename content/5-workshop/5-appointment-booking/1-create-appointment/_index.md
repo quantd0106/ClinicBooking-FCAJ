@@ -121,5 +121,5 @@ The list accepts optional `status` and clinic `date`, plus `page` (default 1) an
 
 For list access, a PATIENT/DOCTOR account without its required profile returns 403 `PROFILE_REQUIRED`. A missing detail record returns 404; an existing record outside the user's ownership/assignment returns 403 `OWNERSHIP_REQUIRED`.
 
-> 📷 Screenshot to add: successful appointment creation, HTTP 201, with real tokens and personal identifiers hidden.
+<!-- TODO_SCREENSHOT: successful appointment creation, HTTP 201, with real tokens and personal identifiers hidden. -->
 

@@ -97,5 +97,5 @@ npm run lint
 
 `src/swagger.ts` đăng ký Swagger UI tại `/api/docs`, có hỗ trợ Bearer authentication. Mở `http://localhost:<local-port>/api/docs` với port đã cấu hình cho Backend. Swagger là dịch vụ riêng với site Hugo trên port 1313.
 
-> 📷 Ảnh cần bổ sung: cấu trúc thư mục Backend và Swagger UI hiển thị các endpoint Auth.
+<!-- TODO_SCREENSHOT: cấu trúc thư mục Backend và Swagger UI hiển thị các endpoint Auth. -->
 

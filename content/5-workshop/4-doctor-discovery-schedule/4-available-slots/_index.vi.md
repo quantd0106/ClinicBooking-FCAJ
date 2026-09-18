@@ -99,5 +99,5 @@ ID bác sĩ sai nhưng đúng định dạng trả về 404, sau đó dùng bác
 
 Trong Swagger, chọn bác sĩ đang hoạt động và ngày tương lai có lịch OPEN đã biết. Đối chiếu số lượng khung cùng giờ hiển thị với lịch đó. Unit test đã kiểm tra bao gồm loại khung đã qua, lịch khám đang hoạt động và đầu ra UTC; integration test persistence M3 còn kiểm tra CANCELLED không chặn khung giờ.
 
-> 📷 Ảnh cần bổ sung: response available-slots hiển thị timestamp UTC và giờ phòng khám, đã che định danh riêng tư.
+<!-- TODO_SCREENSHOT: response available-slots hiển thị timestamp UTC và giờ phòng khám, đã che định danh riêng tư. -->
 

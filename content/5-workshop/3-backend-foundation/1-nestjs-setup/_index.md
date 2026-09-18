@@ -97,5 +97,5 @@ npm run lint
 
 `src/swagger.ts` registers Swagger UI at `/api/docs`, with Bearer authentication support. Open `http://localhost:<local-port>/api/docs` using the port configured for the backend. Swagger is separate from the Hugo site on port 1313.
 
-> 📷 Screenshot to add: backend project folders and Swagger UI showing the Auth endpoints.
+<!-- TODO_SCREENSHOT: backend project folders and Swagger UI showing the Auth endpoints. -->
 

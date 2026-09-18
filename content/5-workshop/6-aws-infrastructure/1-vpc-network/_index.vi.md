@@ -71,4 +71,4 @@ Log thực thi Lambda được chuyển qua dịch vụ logging của Lambda; te
 Template không có NAT Gateway. Internet Gateway và public route không cung cấp Internet tổng quát cho private subnet của Lambda.
 {{< /notice >}}
 
-📷 Ảnh cần bổ sung: Các subnet VPC, liên kết route table và tổng quan endpoint, đã che các định danh.
+<!-- TODO_SCREENSHOT: Các subnet VPC, liên kết route table và tổng quan endpoint, đã che các định danh. -->

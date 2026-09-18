@@ -104,5 +104,5 @@ The persistence layer first reads the observed status and validates the transiti
 
 Authentication/role guard failures remain 401/403. Invalid transition checks are independent of role permission; ADMIN also receives an error for unsupported state changes.
 
-> 📷 Screenshot to add: a permitted appointment transition and its new history entry, with private identifiers hidden.
+<!-- TODO_SCREENSHOT: a permitted appointment transition and its new history entry, with private identifiers hidden. -->
 

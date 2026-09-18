@@ -34,4 +34,4 @@ The current source declares **31 resources across 19 resource types before the S
 This section documents the learning/demo infrastructure design only. Deployment, packaging, database migration, live smoke tests, and cleanup are covered later. No AWS resources are created or inspected here.
 {{< /notice >}}
 
-📷 Screenshot to add: CloudFormation/VPC resource overview, with sensitive identifiers redacted.
+<!-- TODO_SCREENSHOT: CloudFormation/VPC resource overview, with sensitive identifiers redacted. -->

@@ -57,4 +57,4 @@ This distinction follows the [Amazon VPC security documentation](https://docs.aw
 Do not broaden database ingress to the Internet. The verified design authorizes Lambda SG → RDS TCP 3306. Default outbound rules on the database and endpoint SGs are a separate hardening consideration.
 {{< /notice >}}
 
-📷 Screenshot to add: Security Group rule showing Lambda SG → RDS TCP 3306, with identifiers redacted.
+<!-- TODO_SCREENSHOT: Security Group rule showing Lambda SG → RDS TCP 3306, with identifiers redacted. -->

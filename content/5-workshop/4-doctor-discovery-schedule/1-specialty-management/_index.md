@@ -65,5 +65,5 @@ Duplicate names return 409 `SPECIALTY_ALREADY_EXISTS`. A well-formed UUID refere
 
 Use `/api/docs` to browse without a token, then check catalog writes with your private ADMIN test account. Verify that a deactivated specialty disappears from public listing. The historical `search=cardio` HTTP 200 check is consistent with this query contract; results depend on your local data.
 
-> 📷 Screenshot to add: Swagger Specialty endpoints and a sanitized search result.
+<!-- TODO_SCREENSHOT: Swagger Specialty endpoints and a sanitized search result. -->
 

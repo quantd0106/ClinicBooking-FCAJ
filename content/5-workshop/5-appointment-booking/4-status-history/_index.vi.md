@@ -83,5 +83,5 @@ Kiểm tra tạo lịch thành công và chuyển trạng thái được phép, 
 
 Các test M4 đã kiểm tra bao gồm history ban đầu, history vòng đời, actor/lý do hủy và một dòng ban đầu cho request thắng khi đặt đồng thời. Đây là kết quả dự kiến có cơ sở từ source để bạn kiểm tra tại local.
 
-> 📷 Ảnh cần bổ sung: các bản ghi appointment_status_history và timeline chi tiết được phép truy cập tương ứng. Che user ID thật và thông tin cá nhân trong reason.
+<!-- TODO_SCREENSHOT: các bản ghi appointment_status_history và timeline chi tiết được phép truy cập tương ứng. Che user ID thật và thông tin cá nhân trong reason. -->
 

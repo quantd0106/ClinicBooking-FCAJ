@@ -118,5 +118,5 @@ Danh tính hợp lệ nhưng không có vai trò cần thiết là lỗi phân q
 Không công khai mật khẩu plaintext, password hash, khóa ký JWT hoặc access token thật. Che dữ liệu nhạy cảm trong ảnh chụp kết quả đăng nhập.
 {{< /notice >}}
 
-> 📷 Ảnh cần bổ sung: các endpoint Auth trong Swagger và response đăng nhập thành công đã che access token cùng định danh cá nhân.
+<!-- TODO_SCREENSHOT: các endpoint Auth trong Swagger và response đăng nhập thành công đã che access token cùng định danh cá nhân. -->
 

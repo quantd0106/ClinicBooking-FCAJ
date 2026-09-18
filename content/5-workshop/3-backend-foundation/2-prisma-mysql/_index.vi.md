@@ -96,4 +96,4 @@ Backend khai báo `prisma:seed` và cấu hình `prisma/seed.ts`. Luồng điề
 
 Seed là bước chuẩn bị dữ liệu phát triển tùy chọn, tách biệt với migration schema. Giữ thông tin đăng nhập dùng cho seed ở chế độ riêng tư.
 
-> 📷 Ảnh cần bổ sung: kết quả Prisma migration local, đã che chi tiết kết nối và thông tin đăng nhập.
+<!-- TODO_SCREENSHOT: kết quả Prisma migration local, đã che chi tiết kết nối và thông tin đăng nhập. -->

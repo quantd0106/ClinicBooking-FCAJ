@@ -118,5 +118,5 @@ A valid identity without the required role is an authorization failure, covered 
 Never publish plaintext passwords, password hashes, JWT signing secrets, or real access tokens. Keep any login screenshot sanitized.
 {{< /notice >}}
 
-> 📷 Screenshot to add: Swagger Auth endpoints and a successful login response with the access token and personal identifiers hidden.
+<!-- TODO_SCREENSHOT: Swagger Auth endpoints and a successful login response with the access token and personal identifiers hidden. -->
 

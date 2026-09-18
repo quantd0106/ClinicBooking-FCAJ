@@ -83,5 +83,5 @@ Check a successful creation and permitted transition, then compare the returned 
 
 The inspected M4 tests cover initial history, lifecycle audit history, cancellation actor/reason, and one initial row for the winning concurrent booking. These are source-backed expectations for your local checks.
 
-> 📷 Screenshot to add: appointment_status_history records and the matching authorized detail timeline. Hide real user IDs and any personal information in reasons.
+<!-- TODO_SCREENSHOT: appointment_status_history records and the matching authorized detail timeline. Hide real user IDs and any personal information in reasons. -->
 

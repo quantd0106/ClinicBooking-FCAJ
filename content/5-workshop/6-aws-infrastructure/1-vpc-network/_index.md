@@ -71,4 +71,4 @@ Lambda execution logs are delivered through the Lambda logging service; the temp
 There is no NAT Gateway in this template. The Internet Gateway and public route do not give the private Lambda subnets general Internet access.
 {{< /notice >}}
 
-📷 Screenshot to add: VPC subnets, route-table associations, and endpoint overview, with identifiers redacted.
+<!-- TODO_SCREENSHOT: VPC subnets, route-table associations, and endpoint overview, with identifiers redacted. -->

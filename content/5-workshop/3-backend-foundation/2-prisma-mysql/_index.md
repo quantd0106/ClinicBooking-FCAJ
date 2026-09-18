@@ -96,4 +96,4 @@ The backend declares `prisma:seed` and configures `prisma/seed.ts`. The inspecte
 
 Seeding is optional development data preparation, separate from schema migration. Keep seed credentials private.
 
-> 📷 Screenshot to add: a local Prisma migration result, with connection details and credentials hidden.
+<!-- TODO_SCREENSHOT: a local Prisma migration result, with connection details and credentials hidden. -->

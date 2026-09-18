@@ -90,4 +90,4 @@ Role đã giới hạn secrets, upload và logging. Hardening trong tương lai 
 Giữ bucket riêng tư và coi giá trị presigned form là quyền truy cập tạm thời. Retention của bucket có thể giữ lại object sau khi xóa stack, nên kế hoạch cleanup sau cần xét phần lưu trữ được giữ lại. Không cleanup hoặc kiểm tra truy cập trên AWS tại đây.
 {{< /notice >}}
 
-📷 Ảnh cần bổ sung: Cấu hình S3 Block Public Access và mã hóa, đã che tên bucket/định danh riêng tư.
+<!-- TODO_SCREENSHOT: Cấu hình S3 Block Public Access và mã hóa, đã che tên bucket/định danh riêng tư. -->

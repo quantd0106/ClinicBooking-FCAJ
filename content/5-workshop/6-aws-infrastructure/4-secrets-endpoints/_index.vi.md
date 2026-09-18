@@ -80,4 +80,4 @@ Interface endpoint được tính phí theo thời gian provisioned tại mỗi 
 Interface endpoint Secrets Manager có thể phát sinh chi phí liên tục khi được provisioned. Demo dùng endpoint thay NAT cho các đường truy cập AWS cần thiết. Hướng dẫn chi phí chi tiết và cleanup được trình bày sau.
 {{< /notice >}}
 
-📷 Ảnh cần bổ sung: Loại Secrets Manager VPC Endpoint, private DNS, subnet và SG được gắn. Không hiển thị giá trị secret.
+<!-- TODO_SCREENSHOT: Loại Secrets Manager VPC Endpoint, private DNS, subnet và SG được gắn. Không hiển thị giá trị secret. -->

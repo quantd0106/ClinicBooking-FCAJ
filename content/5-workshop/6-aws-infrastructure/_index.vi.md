@@ -34,4 +34,4 @@ Mã nguồn hiện tại khai báo **31 tài nguyên thuộc 19 loại trước 
 Phần này chỉ mô tả thiết kế hạ tầng của môi trường học tập/demo. Triển khai, đóng gói, migration database, smoke test trên AWS và cleanup được trình bày sau. Không tạo hoặc kiểm tra tài nguyên AWS đang chạy trong phần này.
 {{< /notice >}}
 
-📷 Ảnh cần bổ sung: Tổng quan tài nguyên CloudFormation/VPC, đã che các định danh nhạy cảm.
+<!-- TODO_SCREENSHOT: Tổng quan tài nguyên CloudFormation/VPC, đã che các định danh nhạy cảm. -->

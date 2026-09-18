@@ -104,5 +104,5 @@ Tầng persistence đọc trạng thái quan sát được và kiểm tra chuy�
 
 Lỗi guard xác thực/vai trò vẫn là 401/403. Kiểm tra chuyển trạng thái độc lập với quyền theo vai trò; ADMIN cũng nhận lỗi khi yêu cầu chuyển trạng thái không được hỗ trợ.
 
-> 📷 Ảnh cần bổ sung: chuyển trạng thái lịch khám hợp lệ và history mới, đã che định danh riêng tư.
+<!-- TODO_SCREENSHOT: chuyển trạng thái lịch khám hợp lệ và history mới, đã che định danh riêng tư. -->
 

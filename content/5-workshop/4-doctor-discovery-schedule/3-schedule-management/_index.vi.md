@@ -106,5 +106,5 @@ Ngăn chồng lấn lịch làm việc bảo đảm các khoảng làm việc c�
 
 Với tài khoản DOCTOR riêng, tạo lịch tương lai, thử khoảng thời gian chồng lấn và kiểm tra ownership khi nhắm đến lịch của bác sĩ khác. Các test M3 liên quan kiểm tra giới hạn vai trò, ownership, chồng lấn và bảo vệ lịch làm việc có lịch khám đang hoạt động.
 
-> 📷 Ảnh cần bổ sung: tạo lịch thành công và response 409 SCHEDULE_OVERLAP, đã che token và định danh cá nhân.
+<!-- TODO_SCREENSHOT: tạo lịch thành công và response 409 SCHEDULE_OVERLAP, đã che token và định danh cá nhân. -->
 

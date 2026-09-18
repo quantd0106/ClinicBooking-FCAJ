@@ -121,5 +121,5 @@ Danh sách nhận `status` và `date` phòng khám tùy chọn, cùng `page` (m�
 
 Khi xem danh sách, tài khoản PATIENT/DOCTOR thiếu hồ sơ cần thiết nhận 403 `PROFILE_REQUIRED`. Bản ghi chi tiết không tồn tại trả về 404; bản ghi tồn tại nhưng nằm ngoài ownership/phân công trả về 403 `OWNERSHIP_REQUIRED`.
 
-> 📷 Ảnh cần bổ sung: tạo lịch khám thành công, HTTP 201, đã che token thật và định danh cá nhân.
+<!-- TODO_SCREENSHOT: tạo lịch khám thành công, HTTP 201, đã che token thật và định danh cá nhân. -->
 

@@ -62,4 +62,4 @@ Policy snapshot khi xóa/thay thế có thể để lại snapshot sau khi xóa 
 Đây là database học tập/demo, không phải thiết kế high availability cho production. RDS có thể phát sinh chi phí liên tục khi đang chạy. Chi phí chi tiết và bước cleanup được trình bày sau; không thực hiện cleanup tại đây.
 {{< /notice >}}
 
-📷 Ảnh cần bổ sung: Cấu hình RDS riêng tư thể hiện Single-AZ, mã hóa, subnet group và public-access setting. Che endpoint, thông tin xác thực và định danh riêng tư.
+<!-- TODO_SCREENSHOT: Cấu hình RDS riêng tư thể hiện Single-AZ, mã hóa, subnet group và public-access setting. Che endpoint, thông tin xác thực và định danh riêng tư. -->

@@ -106,5 +106,5 @@ Schedule overlap prevention keeps one doctor's working windows from overlapping.
 
 With your private DOCTOR account, create a future schedule, try an overlapping window, and check ownership by targeting another doctor's schedule. Relevant M3 tests cover role restrictions, ownership, overlap, and protection of schedules with active bookings.
 
-> 📷 Screenshot to add: successful schedule creation and the 409 SCHEDULE_OVERLAP response, with tokens and personal identifiers hidden.
+<!-- TODO_SCREENSHOT: successful schedule creation and the 409 SCHEDULE_OVERLAP response, with tokens and personal identifiers hidden. -->
 

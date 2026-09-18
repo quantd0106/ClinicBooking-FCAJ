@@ -111,5 +111,5 @@ Integration test M4 đã kiểm tra dùng hai lời gọi `appointments.create()
 Khung giờ trống có thể thay đổi sau tra cứu. Đặt lịch phải validation và kiểm tra lại trong transaction. Hủy lịch chỉ giải phóng khung đang hoạt động để đặt lại khi các điều kiện bác sĩ, lịch làm việc và bắt đầu trong tương lai vẫn cho phép.
 {{< /notice >}}
 
-> 📷 Ảnh cần bổ sung: đặt lịch thành công, xung đột đặt trùng và cơ sở dữ liệu local chỉ có một lịch đang hoạt động. Che token thật và định danh riêng tư.
+<!-- TODO_SCREENSHOT: đặt lịch thành công, xung đột đặt trùng và cơ sở dữ liệu local chỉ có một lịch đang hoạt động. Che token thật và định danh riêng tư. -->
 
